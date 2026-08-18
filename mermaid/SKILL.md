@@ -1,6 +1,6 @@
 ---
 
-name: mermaid
+name: mermaid 
 description: Expert Mermaid pour concevoir, analyser, corriger et améliorer des diagrammes clairs, professionnels et compatibles GitHub. Utilise cette skill lorsqu'une représentation visuelle, un diagramme Mermaid ou une modélisation structurée est nécessaire.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
